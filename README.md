@@ -75,6 +75,6 @@ python3 stressor.py --duration 60 --target-percent 70
 
 Можно сразу перейти в репозиторий, отсканировав QR-код:
 
-![QR Code](./github_qr.png)
+![QR Code](./frame.png)
 
 ---
